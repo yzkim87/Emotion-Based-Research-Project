@@ -1,0 +1,12 @@
+dataset_root: C:\Users\yunju\study\bk21\data\pts
+batch_size: 8
+epochs: 5
+lr: 0.0001
+
+text_dim: 768
+audio_dim: 88
+lstm_hidden: 128
+grn_hops: 3
+aim_hidden: 64
+num_classes: 9
+graph_window: 5
